@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PurpleEnemyMovement : MonoBehaviour
+public class EnemyPurpleMovement : MonoBehaviour
 {
     private float horizontal;
     private float speed = 1f;
@@ -16,6 +16,7 @@ public class PurpleEnemyMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
+    
     // Update is called once per frame
     void Update()
     {
@@ -85,6 +86,7 @@ public class PurpleEnemyMovement : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
     }
 
     // ------------

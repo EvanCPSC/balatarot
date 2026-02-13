@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
+    [SerializeField] private int currScene;
     // From ChatGPT, used in assignment 1
     // ------------
     public bool JustJumped { get; private set; }
@@ -45,7 +46,12 @@ public class PlayerMovement : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("Lava") || collision.gameObject.CompareTag("Spike"))
         {
-            UnityEngine.SceneManagement.SceneManager.LoadScene(0);
+            UnityEngine.SceneManagement.SceneManager.LoadScene(currScene);
+        }
+        if (collision.gameObject.CompareTag("Goal"))
+        {
+            currScene++;
+            UnityEngine.SceneManagement.SceneManager.LoadScene(currScene);
         }
     }
 }
