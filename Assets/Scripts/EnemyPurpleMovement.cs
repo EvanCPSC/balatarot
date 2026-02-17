@@ -5,9 +5,9 @@ using UnityEngine;
 public class EnemyPurpleMovement : MonoBehaviour
 {
     private float horizontal;
-    private float speed = 1f;
+    private float speed = 1.4f;
     private float jumpPower = 10f;
-    private float jumpDelay = 0.8f;
+    private float jumpDelay = 0.6f;
     private bool jumpQueued = false;
     private float jumpTimer;
     [SerializeField] private Rigidbody2D rb;
