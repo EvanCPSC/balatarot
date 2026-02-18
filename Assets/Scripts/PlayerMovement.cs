@@ -30,6 +30,12 @@ public class PlayerMovement : MonoBehaviour
             JustJumped = true;
         }
         // ------------
+        // from scene manager
+        if (Input.GetButtonDown("Cancel"))
+        {
+            Application.Quit();
+            Debug.Log("Game is exiting");
+        }
     }
 
     private void FixedUpdate()
@@ -50,7 +56,7 @@ public class PlayerMovement : MonoBehaviour
         }
         if (collision.gameObject.CompareTag("Goal"))
         {
-            currScene++;
+            currScene = (currScene + 1) % 17;
             UnityEngine.SceneManagement.SceneManager.LoadScene(currScene);
         }
     }

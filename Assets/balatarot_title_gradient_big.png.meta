@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f364b9e897a4e554ba6686d46c0b63a3
+guid: da2afff20cd2d474c9e1d5c1509aa041
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -140,10 +140,10 @@ TextureImporter:
       name: balatarot_title_gradient_big_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 390
-        width: 196
-        height: 276
+        x: 19
+        y: 299
+        width: 192
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +162,10 @@ TextureImporter:
       name: balatarot_title_gradient_big_1
       rect:
         serializedVersion: 2
-        x: 225
-        y: 410
-        width: 235
-        height: 236
+        x: 229
+        y: 319
+        width: 232
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: balatarot_title_gradient_big_2
       rect:
         serializedVersion: 2
-        x: 477
-        y: 410
-        width: 215
-        height: 236
+        x: 479
+        y: 319
+        width: 212
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,9 +207,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 709
-        y: 410
-        width: 235
-        height: 236
+        y: 319
+        width: 232
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: balatarot_title_gradient_big_4
       rect:
         serializedVersion: 2
-        x: 93
-        y: 127
-        width: 256
-        height: 236
+        x: 99
+        y: 29
+        width: 252
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,10 +250,10 @@ TextureImporter:
       name: balatarot_title_gradient_big_5
       rect:
         serializedVersion: 2
-        x: 305
-        y: 127
-        width: 236
-        height: 236
+        x: 309
+        y: 29
+        width: 232
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: balatarot_title_gradient_big_6
       rect:
         serializedVersion: 2
-        x: 557
-        y: 127
-        width: 216
-        height: 236
+        x: 559
+        y: 29
+        width: 212
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: balatarot_title_gradient_big_7
       rect:
         serializedVersion: 2
-        x: 790
-        y: 107
-        width: 235
-        height: 296
+        x: 789
+        y: 9
+        width: 232
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: balatarot_title_gradient_big_8
       rect:
         serializedVersion: 2
-        x: 1011
-        y: 127
-        width: 256
-        height: 236
+        x: 1009
+        y: 29
+        width: 252
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

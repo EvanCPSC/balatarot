@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 6ede7341c019d6d40a7aa9448f372c69
+guid: b435134ba21d8784eb8db6d657a5acb2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2662956684425100586
-    second: balatarot_buttons_gradient_big_0
-  - first:
-      213: -6091904319875445890
-    second: balatarot_buttons_gradient_big_1
-  - first:
-      213: 8081351890464585862
-    second: balatarot_buttons_gradient_big_2
+      213: 6522871808983801186
+    second: balatarot-art_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: balatarot_buttons_gradient_big_0
+      name: balatarot-art_0
       rect:
         serializedVersion: 2
-        x: 99
-        y: 479
-        width: 542
-        height: 182
+        x: 0
+        y: 0
+        width: 1280
+        height: 720
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2df86bdef8b4f420800000000000000
-      internalID: 2662956684425100586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: balatarot_buttons_gradient_big_1
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 259
-        width: 542
-        height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e7b08202c45357ba0800000000000000
-      internalID: -6091904319875445890
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: balatarot_buttons_gradient_big_2
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 39
-        width: 542
-        height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 688b2104abab62070800000000000000
-      internalID: 8081351890464585862
+      spriteID: 26d93e1c955e58a50800000000000000
+      internalID: 6522871808983801186
       vertices: []
       indices: 
       edges: []
@@ -188,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      balatarot_buttons_gradient_big_0: 2662956684425100586
-      balatarot_buttons_gradient_big_1: -6091904319875445890
-      balatarot_buttons_gradient_big_2: 8081351890464585862
+      balatarot-art_0: 6522871808983801186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
