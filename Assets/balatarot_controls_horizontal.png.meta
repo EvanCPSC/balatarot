@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 7f8a3aaec24ad394886ee239bdc0a403
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7817323966125974498
+    second: balatarot_controls_horizontal_0
+  - first:
+      213: -5117178250940055571
+    second: balatarot_controls_horizontal_1
+  - first:
+      213: -2015672304081601595
+    second: balatarot_controls_horizontal_2
+  - first:
+      213: 8810624014672283610
+    second: balatarot_controls_horizontal_3
+  - first:
+      213: -46633722846183462
+    second: balatarot_controls_horizontal_4
+  - first:
+      213: -8868580467151225771
+    second: balatarot_controls_horizontal_5
+  - first:
+      213: 337705459698006434
+    second: balatarot_controls_horizontal_6
+  - first:
+      213: 5399500857664608902
+    second: balatarot_controls_horizontal_7
+  - first:
+      213: 3000774342089016403
+    second: balatarot_controls_horizontal_8
+  - first:
+      213: -2286021792545982167
+    second: balatarot_controls_horizontal_9
+  - first:
+      213: -4297809969822249149
+    second: balatarot_controls_horizontal_10
+  - first:
+      213: -8946984555794588022
+    second: balatarot_controls_horizontal_11
+  - first:
+      213: -8023756756781995896
+    second: balatarot_controls_horizontal_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 429
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3261faab6bc7c60800000000000000
+      internalID: 7817323966125974498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 469
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deffc542e712cf8b0800000000000000
+      internalID: -5117178250940055571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 469
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb7f9b08b4e604e0800000000000000
+      internalID: -2015672304081601595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 469
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad741145cdf954a70800000000000000
+      internalID: 8810624014672283610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 469
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adff23b40e25a5ff0800000000000000
+      internalID: -46633722846183462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 319
+        width: 142
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cbb798d097ce480800000000000000
+      internalID: -8868580467151225771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 469
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9720c8355cfa400800000000000000
+      internalID: 337705459698006434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 469
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a14891c61eeea40800000000000000
+      internalID: 5399500857664608902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 469
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35482578d54e4a920800000000000000
+      internalID: 3000774342089016403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 469
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929be72aa4b6640e0800000000000000
+      internalID: -2286021792545982167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_10
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 429
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fcc9c6a9c1b54c0800000000000000
+      internalID: -4297809969822249149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 19
+        width: 242
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e15fc13fce5d380800000000000000
+      internalID: -8946984555794588022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_horizontal_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 19
+        width: 242
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8886edbcdb3e5a090800000000000000
+      internalID: -8023756756781995896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      balatarot_controls_horizontal_0: 7817323966125974498
+      balatarot_controls_horizontal_1: -5117178250940055571
+      balatarot_controls_horizontal_10: -4297809969822249149
+      balatarot_controls_horizontal_11: -8946984555794588022
+      balatarot_controls_horizontal_12: -8023756756781995896
+      balatarot_controls_horizontal_2: -2015672304081601595
+      balatarot_controls_horizontal_3: 8810624014672283610
+      balatarot_controls_horizontal_4: -46633722846183462
+      balatarot_controls_horizontal_5: -8868580467151225771
+      balatarot_controls_horizontal_6: 337705459698006434
+      balatarot_controls_horizontal_7: 5399500857664608902
+      balatarot_controls_horizontal_8: 3000774342089016403
+      balatarot_controls_horizontal_9: -2286021792545982167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -33,8 +33,7 @@ public class PlayerMovement : MonoBehaviour
         // from scene manager
         if (Input.GetButtonDown("Cancel"))
         {
-            Application.Quit();
-            Debug.Log("Game is exiting");
+            UnityEngine.SceneManagement.SceneManager.LoadScene(0);
         }
     }
 

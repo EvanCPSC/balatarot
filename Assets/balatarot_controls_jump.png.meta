@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 6217fc8b453f11a428a6cf31738271c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4347506372171629108
+    second: balatarot_controls_jump_0
+  - first:
+      213: -4337828222098260562
+    second: balatarot_controls_jump_1
+  - first:
+      213: -5813566074905134140
+    second: balatarot_controls_jump_2
+  - first:
+      213: -5608037807107112391
+    second: balatarot_controls_jump_3
+  - first:
+      213: -1699096862194500125
+    second: balatarot_controls_jump_4
+  - first:
+      213: -5550351502693579964
+    second: balatarot_controls_jump_5
+  - first:
+      213: 3081025363856169386
+    second: balatarot_controls_jump_6
+  - first:
+      213: 3765796493433971280
+    second: balatarot_controls_jump_7
+  - first:
+      213: -7516272468907941047
+    second: balatarot_controls_jump_8
+  - first:
+      213: 4203352053063880339
+    second: balatarot_controls_jump_9
+  - first:
+      213: 5302608319198380156
+    second: balatarot_controls_jump_10
+  - first:
+      213: -5942970012664106820
+    second: balatarot_controls_jump_11
+  - first:
+      213: -2934647759824149995
+    second: balatarot_controls_jump_12
+  - first:
+      213: -1558883696788112176
+    second: balatarot_controls_jump_13
+  - first:
+      213: 4847080451911578513
+    second: balatarot_controls_jump_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balatarot_controls_jump_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 509
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd76f31dfd8aa3c0800000000000000
+      internalID: -4347506372171629108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 519
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead3b2df630fcc3c0800000000000000
+      internalID: -4337828222098260562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 359
+        width: 142
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb740bd470125fa0800000000000000
+      internalID: -5813566074905134140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 519
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9328b6cb35f3c22b0800000000000000
+      internalID: -5608037807107112391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 509
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed7ae1f7689b68e0800000000000000
+      internalID: -1699096862194500125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443c46f17b039f2b0800000000000000
+      internalID: -5550351502693579964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_6
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 489
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa99d949e3002ca20800000000000000
+      internalID: 3081025363856169386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 459
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0522b8f65fbc24430800000000000000
+      internalID: 3765796493433971280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 459
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943a1bf2306d0b790800000000000000
+      internalID: -7516272468907941047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 419
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e08c40c6e455a30800000000000000
+      internalID: 4203352053063880339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_10
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 419
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70c9d00c26a69940800000000000000
+      internalID: 5302608319198380156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 379
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb07b5cb244568da0800000000000000
+      internalID: -5942970012664106820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 339
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51229ce29690647d0800000000000000
+      internalID: -2934647759824149995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 379
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcfbce798bbd5ae0800000000000000
+      internalID: -1558883696788112176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balatarot_controls_jump_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 242
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193fde57df9444340800000000000000
+      internalID: 4847080451911578513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      balatarot_controls_jump_0: -4347506372171629108
+      balatarot_controls_jump_1: -4337828222098260562
+      balatarot_controls_jump_10: 5302608319198380156
+      balatarot_controls_jump_11: -5942970012664106820
+      balatarot_controls_jump_12: -2934647759824149995
+      balatarot_controls_jump_13: -1558883696788112176
+      balatarot_controls_jump_14: 4847080451911578513
+      balatarot_controls_jump_2: -5813566074905134140
+      balatarot_controls_jump_3: -5608037807107112391
+      balatarot_controls_jump_4: -1699096862194500125
+      balatarot_controls_jump_5: -5550351502693579964
+      balatarot_controls_jump_6: 3081025363856169386
+      balatarot_controls_jump_7: 3765796493433971280
+      balatarot_controls_jump_8: -7516272468907941047
+      balatarot_controls_jump_9: 4203352053063880339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
